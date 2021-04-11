@@ -1,0 +1,16 @@
+.name {
+  color: red;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+  background: #4df9fb;
+  border: 0;
+  cursor: pointer;
+}
+
+.name-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
